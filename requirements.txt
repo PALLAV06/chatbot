@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+azure-search-documents
+openai
+pydantic
+httpx 
+pydantic-settings 
